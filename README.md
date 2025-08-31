@@ -22,12 +22,36 @@ Este es un curso completo y profundo de CSS (Cascading Style Sheets) diseñado p
 - **Herramientas avanzadas**: PostCSS, CSS Modules, frameworks modernos
 - **DevOps**: CI/CD, testing, deployment, monitoring
 
+## 📁 Estructura Completa del Curso
+
+### 🟢 **NIVEL JUNIOR** - Fundamentos y Conceptos Básicos
+- **[Módulo 1: Fundamentos de CSS](junior_1/README.md)** - Selectores, propiedades básicas, cascada y herencia
+- **[Módulo 2: Layout y Box Model](junior_2/README.md)** - Box model, display, positioning, flexbox básico
+- **[Módulo 3: Responsive Design](junior_3/README.md)** - Media queries, unidades relativas, mobile-first approach
+
+### 🟡 **NIVEL MID-LEVEL** - Técnicas Intermedias y Avanzadas
+- **[Módulo 4: CSS Grid y Flexbox Avanzado](midLevel_1/README.md)** - CSS Grid completo, flexbox avanzado, layouts complejos
+- **[Módulo 5: Animaciones y Transiciones](midLevel_2/README.md)** - Transiciones, transformaciones, keyframes, performance
+- **[Módulo 6: CSS Moderno y Avanzado](midLevel_3/README.md)** - Variables CSS, funciones, pseudo-elementos avanzados
+
+### 🔴 **NIVEL SENIOR** - Arquitectura, Performance y DevOps
+- **[Módulo 7: Arquitectura CSS y Metodologías](senior_1/README.md)** - Metodologías (BEM, SMACSS), CSS-in-JS, preprocesadores
+- **[Módulo 8: Performance y Optimización](senior_2/README.md)** - Critical CSS, lazy loading, optimización de selectores
+- **[Módulo 9: Herramientas y Frameworks](senior_3/README.md)** - PostCSS, CSS Modules, frameworks modernos
+- **[Módulo 10: DevOps y Deployment](senior_4/README.md)** - CI/CD, testing, deployment, monitoring
+
+## 🗂️ Navegación Rápida
+
+- **[📚 Índice Completo](INDICE_COMPLETO.md)** - Vista detallada de todos los módulos
+- **[🧭 Navegación Rápida](NAVEGACION_RAPIDA.md)** - Acceso directo a cualquier módulo
+
 ## 📁 Estructura del Curso
 
 ```
 curso_css/
 ├── README.md                    # Este archivo
 ├── INDICE_COMPLETO.md          # Índice detallado de todos los módulos
+├── NAVEGACION_RAPIDA.md        # Navegación rápida a todos los módulos
 ├── junior_1/                   # Módulo 1: Fundamentos de CSS
 ├── junior_2/                   # Módulo 2: Layout y Box Model
 ├── junior_3/                   # Módulo 3: Responsive Design

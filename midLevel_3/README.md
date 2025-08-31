@@ -1,5 +1,13 @@
 # 🎨 Módulo 6: CSS Moderno y Avanzado
 
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 5: Animaciones y Transiciones](midLevel_2/README.md)
+- **➡️ Siguiente**: [Módulo 7: Arquitectura CSS y Metodologías](senior_1/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
+
+---
+
 ## 📚 Descripción del Módulo
 
 En este módulo explorarás las características más modernas y avanzadas de CSS. Aprenderás sobre variables CSS (Custom Properties), funciones matemáticas, pseudo-elementos avanzados, CSS Houdini y técnicas que están definiendo el futuro del diseño web. Este conocimiento te pondrá a la vanguardia del desarrollo CSS.
@@ -835,6 +843,14 @@ Crea un sistema de componentes completo que demuestre dominio de CSS moderno, va
 ## 🚀 Siguiente Paso
 
 Una vez que hayas completado este módulo y el proyecto integrador, estarás listo para continuar con el **Módulo 7: Arquitectura CSS y Metodologías**, donde aprenderás sobre BEM, SMACSS, ITCSS y cómo organizar CSS a gran escala.
+
+---
+
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 5: Animaciones y Transiciones](midLevel_2/README.md)
+- **➡️ Siguiente**: [Módulo 7: Arquitectura CSS y Metodologías](senior_1/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
 
 ---
 

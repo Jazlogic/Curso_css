@@ -1,5 +1,13 @@
 # 🎨 Módulo 7: Arquitectura CSS y Metodologías
 
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 6: CSS Moderno y Avanzado](midLevel_3/README.md)
+- **➡️ Siguiente**: [Módulo 8: Performance y Optimización](senior_2/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
+
+---
+
 ## 📚 Descripción del Módulo
 
 En este módulo aprenderás cómo organizar y estructurar CSS a gran escala. Las metodologías como BEM, SMACSS e ITCSS te ayudarán a crear código mantenible, escalable y profesional. También explorarás CSS-in-JS, preprocesadores y cómo crear sistemas de diseño robustos para empresas.
@@ -1151,6 +1159,14 @@ Crea un sistema de diseño completo para una empresa ficticia que demuestre domi
 ## 🚀 Siguiente Paso
 
 Una vez que hayas completado este módulo y el proyecto integrador, estarás listo para continuar con el **Módulo 8: Performance y Optimización**, donde aprenderás técnicas avanzadas para optimizar CSS y mejorar el rendimiento.
+
+---
+
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 6: CSS Moderno y Avanzado](midLevel_3/README.md)
+- **➡️ Siguiente**: [Módulo 8: Performance y Optimización](senior_2/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
 
 ---
 

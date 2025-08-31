@@ -1,5 +1,13 @@
 # 🎨 Módulo 1: Fundamentos de CSS
 
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [🏠 Página Principal](../README.md)
+- **➡️ Siguiente**: [Módulo 2: Layout y Box Model](junior_2/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
+
+---
+
 ## 📚 Descripción del Módulo
 
 Este módulo te introduce a los fundamentos esenciales de CSS (Cascading Style Sheets). Aprenderás qué es CSS, cómo funciona, y los conceptos básicos que forman la base de todo el diseño web moderno. Desde selectores simples hasta la comprensión de la cascada y herencia, este módulo establece las bases sólidas para tu viaje en CSS.
@@ -582,6 +590,14 @@ Crea una página web personal completa que demuestre todos los conceptos aprendi
 ## 🚀 Siguiente Paso
 
 Una vez que hayas completado este módulo y el proyecto integrador, estarás listo para continuar con el **Módulo 2: Layout y Box Model**, donde aprenderás sobre el modelo de caja, posicionamiento y Flexbox básico.
+
+---
+
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [🏠 Página Principal](../README.md)
+- **➡️ Siguiente**: [Módulo 2: Layout y Box Model](junior_2/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
 
 ---
 

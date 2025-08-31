@@ -1,5 +1,13 @@
 # 🎨 Módulo 4: CSS Grid y Flexbox Avanzado
 
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 3: Responsive Design](junior_3/README.md)
+- **➡️ Siguiente**: [Módulo 5: Animaciones y Transiciones](midLevel_2/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
+
+---
+
 ## 📚 Descripción del Módulo
 
 En este módulo avanzarás significativamente en tus habilidades de layout CSS. Aprenderás CSS Grid completo, desde conceptos básicos hasta técnicas avanzadas, y profundizarás en Flexbox para crear layouts complejos y profesionales. Este módulo te dará el poder de crear cualquier tipo de layout que puedas imaginar, con control total sobre la disposición de elementos en la página.
@@ -876,6 +884,14 @@ Crea un dashboard administrativo completo que demuestre dominio de CSS Grid y Fl
 ## 🚀 Siguiente Paso
 
 Una vez que hayas completado este módulo y el proyecto integrador, estarás listo para continuar con el **Módulo 5: Animaciones y Transiciones**, donde aprenderás a crear experiencias web dinámicas y atractivas con CSS.
+
+---
+
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 3: Responsive Design](junior_3/README.md)
+- **➡️ Siguiente**: [Módulo 5: Animaciones y Transiciones](midLevel_2/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
 
 ---
 

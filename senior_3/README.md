@@ -1,5 +1,13 @@
 # 🎨 Módulo 9: Testing y Debugging CSS
 
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 8: Performance y Optimización](senior_2/README.md)
+- **➡️ Siguiente**: [Módulo 10: DevOps y Deployment](senior_4/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
+
+---
+
 ## 📚 Descripción del Módulo
 
 En este módulo aprenderás técnicas avanzadas para probar y depurar CSS en diferentes entornos. Desde testing automatizado hasta debugging en navegadores, pasando por herramientas de análisis visual y testing de accesibilidad, dominarás todo lo necesario para crear CSS robusto y confiable.
@@ -1119,6 +1127,14 @@ Crea un sistema de testing CSS completo que demuestre dominio de todas las técn
 ## 🚀 Siguiente Paso
 
 Una vez que hayas completado este módulo y el proyecto integrador, estarás listo para continuar con el **Módulo 10: DevOps y Deployment CSS**, donde aprenderás técnicas de CI/CD, deployment y mantenimiento de CSS en producción.
+
+---
+
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 8: Performance y Optimización](senior_2/README.md)
+- **➡️ Siguiente**: [Módulo 10: DevOps y Deployment](senior_4/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
 
 ---
 

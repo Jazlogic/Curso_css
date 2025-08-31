@@ -1,5 +1,13 @@
 # 🎨 Módulo 3: Responsive Design
 
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 2: Layout y Box Model](junior_2/README.md)
+- **➡️ Siguiente**: [Módulo 4: CSS Grid y Flexbox Avanzado](midLevel_1/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
+
+---
+
 ## 📚 Descripción del Módulo
 
 En este módulo aprenderás los fundamentos del diseño responsivo, una habilidad esencial en el desarrollo web moderno. Aprenderás cómo crear sitios web que se adapten perfectamente a cualquier dispositivo, desde móviles hasta pantallas de escritorio. Cubriremos media queries, mobile-first approach, unidades responsivas y técnicas para crear experiencias web consistentes en todos los dispositivos.
@@ -769,6 +777,14 @@ Crea un sitio web completo para un restaurante que se adapte perfectamente a tod
 ## 🚀 Siguiente Paso
 
 Una vez que hayas completado este módulo y el proyecto integrador, estarás listo para continuar con el **Módulo 4: CSS Grid y Flexbox Avanzado**, donde aprenderás técnicas avanzadas de layout y cómo crear layouts complejos y profesionales.
+
+---
+
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 2: Layout y Box Model](junior_2/README.md)
+- **➡️ Siguiente**: [Módulo 4: CSS Grid y Flexbox Avanzado](midLevel_1/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
 
 ---
 

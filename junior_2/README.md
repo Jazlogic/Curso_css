@@ -1,5 +1,13 @@
 # 🎨 Módulo 2: Layout y Box Model
 
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 1: Fundamentos de CSS](junior_1/README.md)
+- **➡️ Siguiente**: [Módulo 3: Responsive Design](junior_3/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
+
+---
+
 ## 📚 Descripción del Módulo
 
 En este módulo profundizarás en el corazón del layout CSS: el Box Model. Aprenderás cómo los elementos se comportan en el flujo del documento, cómo controlar su tamaño y posición, y cómo crear layouts básicos usando diferentes técnicas de posicionamiento. También te introducirás a Flexbox, una herramienta poderosa para crear layouts flexibles y responsivos.
@@ -739,6 +747,14 @@ Crea un blog completo con layout de dos columnas que demuestre todos los concept
 ## 🚀 Siguiente Paso
 
 Una vez que hayas completado este módulo y el proyecto integrador, estarás listo para continuar con el **Módulo 3: Responsive Design**, donde aprenderás sobre media queries, mobile-first approach y técnicas de diseño responsivo.
+
+---
+
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 1: Fundamentos de CSS](junior_1/README.md)
+- **➡️ Siguiente**: [Módulo 3: Responsive Design](junior_3/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
 
 ---
 

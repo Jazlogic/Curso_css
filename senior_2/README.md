@@ -1,5 +1,13 @@
 # 🎨 Módulo 8: Performance y Optimización
 
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 7: Arquitectura CSS y Metodologías](senior_1/README.md)
+- **➡️ Siguiente**: [Módulo 9: Herramientas y Frameworks](senior_3/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
+
+---
+
 ## 📚 Descripción del Módulo
 
 En este módulo aprenderás técnicas avanzadas para optimizar CSS y mejorar el rendimiento de tus aplicaciones web. Desde análisis de bundle hasta optimización de selectores, pasando por técnicas de lazy loading y herramientas de profiling, dominarás todo lo necesario para crear CSS de alto rendimiento.
@@ -1291,7 +1299,15 @@ Crea una aplicación web que demuestre dominio de todas las técnicas de optimiz
 
 ## 🚀 Siguiente Paso
 
-Una vez que hayas completado este módulo y el proyecto integrador, estarás listo para continuar con el **Módulo 9: Testing y Debugging CSS**, donde aprenderás técnicas avanzadas para probar y depurar CSS en diferentes entornos.
+Una vez que hayas completado este módulo y el proyecto integrador, estarás listo para continuar con el **Módulo 9: Herramientas y Frameworks**, donde aprenderás sobre herramientas modernas y frameworks CSS.
+
+---
+
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 7: Arquitectura CSS y Metodologías](senior_1/README.md)
+- **➡️ Siguiente**: [Módulo 9: Herramientas y Frameworks](senior_3/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
 
 ---
 

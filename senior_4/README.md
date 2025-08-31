@@ -1,5 +1,13 @@
 # 🎨 Módulo 10: DevOps y Deployment CSS
 
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 9: Testing y Debugging CSS](senior_3/README.md)
+- **➡️ Siguiente**: [🏠 Página Principal](../README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
+
+---
+
 ## 📚 Descripción del Módulo
 
 En este módulo final aprenderás cómo llevar tu CSS a producción de manera profesional. Desde CI/CD pipelines hasta deployment automatizado, pasando por monitoreo, CDN y estrategias de rollback, dominarás todo lo necesario para mantener CSS en producción de manera eficiente y confiable.
@@ -1360,6 +1368,14 @@ Crea un pipeline completo de CI/CD para CSS que demuestre dominio de todas las t
 ## 🚀 ¡CURSO COMPLETADO!
 
 Una vez que hayas completado este módulo final y el proyecto integrador, habrás completado exitosamente el **Curso Completo de CSS de Cero a Senior** y estarás listo para aplicar todo tu conocimiento en proyectos reales y profesionales.
+
+---
+
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 9: Testing y Debugging CSS](senior_3/README.md)
+- **➡️ Siguiente**: [🏠 Página Principal](../README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
 
 ---
 

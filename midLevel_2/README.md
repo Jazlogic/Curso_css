@@ -1,5 +1,13 @@
 # 🎨 Módulo 5: Animaciones y Transiciones
 
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 4: CSS Grid y Flexbox Avanzado](midLevel_1/README.md)
+- **➡️ Siguiente**: [Módulo 6: CSS Moderno y Avanzado](midLevel_3/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
+
+---
+
 ## 📚 Descripción del Módulo
 
 En este módulo aprenderás a dar vida a tus sitios web con CSS. Las animaciones y transiciones transforman sitios estáticos en experiencias dinámicas y atractivas. Aprenderás desde transiciones simples hasta animaciones complejas con keyframes, optimización de performance y técnicas avanzadas.
@@ -665,6 +673,14 @@ Crea una galería de imágenes completa con animaciones avanzadas, efectos de ho
 ## 🚀 Siguiente Paso
 
 Una vez que hayas completado este módulo y el proyecto integrador, estarás listo para continuar con el **Módulo 6: CSS Moderno y Avanzado**, donde aprenderás sobre variables CSS, funciones modernas y técnicas avanzadas.
+
+---
+
+## 🧭 Navegación del Curso
+
+- **⬅️ Anterior**: [Módulo 4: CSS Grid y Flexbox Avanzado](midLevel_1/README.md)
+- **➡️ Siguiente**: [Módulo 6: CSS Moderno y Avanzado](midLevel_3/README.md)
+- **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
 
 ---
 
