@@ -2,7 +2,7 @@
 
 ## 🧭 Navegación del Curso
 
-- **⬅️ Anterior**: [Módulo 9: Testing y Debugging CSS](senior_3/README.md)
+- **⬅️ Anterior**: [Módulo 9: Testing y Debugging CSS](../senior_3/README.md)
 - **➡️ Siguiente**: [🏠 Página Principal](../README.md)
 - **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
 
@@ -1373,7 +1373,7 @@ Una vez que hayas completado este módulo final y el proyecto integrador, habrá
 
 ## 🧭 Navegación del Curso
 
-- **⬅️ Anterior**: [Módulo 9: Testing y Debugging CSS](senior_3/README.md)
+- **⬅️ Anterior**: [Módulo 9: Testing y Debugging CSS](../senior_3/README.md)
 - **➡️ Siguiente**: [🏠 Página Principal](../README.md)
 - **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
 

@@ -3,7 +3,7 @@
 ## 🧭 Navegación del Curso
 
 - **⬅️ Anterior**: [🏠 Página Principal](../README.md)
-- **➡️ Siguiente**: [Módulo 2: Layout y Box Model](junior_2/README.md)
+- **➡️ Siguiente**: [Módulo 2: Layout y Box Model](../junior_2/README.md)
 - **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
 
 ---
@@ -596,7 +596,7 @@ Una vez que hayas completado este módulo y el proyecto integrador, estarás lis
 ## 🧭 Navegación del Curso
 
 - **⬅️ Anterior**: [🏠 Página Principal](../README.md)
-- **➡️ Siguiente**: [Módulo 2: Layout y Box Model](junior_2/README.md)
+- **➡️ Siguiente**: [Módulo 2: Layout y Box Model](../junior_2/README.md)
 - **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
 
 ---

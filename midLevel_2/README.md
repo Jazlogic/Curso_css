@@ -2,8 +2,8 @@
 
 ## 🧭 Navegación del Curso
 
-- **⬅️ Anterior**: [Módulo 4: CSS Grid y Flexbox Avanzado](midLevel_1/README.md)
-- **➡️ Siguiente**: [Módulo 6: CSS Moderno y Avanzado](midLevel_3/README.md)
+- **⬅️ Anterior**: [Módulo 4: CSS Grid y Flexbox Avanzado](../midLevel_1/README.md)
+- **➡️ Siguiente**: [Módulo 6: CSS Moderno y Avanzado](../midLevel_3/README.md)
 - **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
 
 ---
@@ -678,8 +678,8 @@ Una vez que hayas completado este módulo y el proyecto integrador, estarás lis
 
 ## 🧭 Navegación del Curso
 
-- **⬅️ Anterior**: [Módulo 4: CSS Grid y Flexbox Avanzado](midLevel_1/README.md)
-- **➡️ Siguiente**: [Módulo 6: CSS Moderno y Avanzado](midLevel_3/README.md)
+- **⬅️ Anterior**: [Módulo 4: CSS Grid y Flexbox Avanzado](../midLevel_1/README.md)
+- **➡️ Siguiente**: [Módulo 6: CSS Moderno y Avanzado](../midLevel_3/README.md)
 - **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
 
 ---

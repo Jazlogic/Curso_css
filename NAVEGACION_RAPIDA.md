@@ -20,7 +20,7 @@
 
 ## 📚 Recursos del Curso
 
-- **[🏠 Página Principal](../README.md)** - Volver al inicio del curso
+- **[🏠 Página Principal](README.md)** - Volver al inicio del curso
 - **[📚 Índice Completo](INDICE_COMPLETO.md)** - Vista detallada de todos los módulos
 - **[🧭 Navegación Rápida](NAVEGACION_RAPIDA.md)** - Este archivo
 

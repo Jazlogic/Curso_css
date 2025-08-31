@@ -2,8 +2,8 @@
 
 ## 🧭 Navegación del Curso
 
-- **⬅️ Anterior**: [Módulo 7: Arquitectura CSS y Metodologías](senior_1/README.md)
-- **➡️ Siguiente**: [Módulo 9: Herramientas y Frameworks](senior_3/README.md)
+- **⬅️ Anterior**: [Módulo 7: Arquitectura CSS y Metodologías](../senior_1/README.md)
+- **➡️ Siguiente**: [Módulo 9: Herramientas y Frameworks](../senior_3/README.md)
 - **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
 
 ---
@@ -1305,8 +1305,8 @@ Una vez que hayas completado este módulo y el proyecto integrador, estarás lis
 
 ## 🧭 Navegación del Curso
 
-- **⬅️ Anterior**: [Módulo 7: Arquitectura CSS y Metodologías](senior_1/README.md)
-- **➡️ Siguiente**: [Módulo 9: Herramientas y Frameworks](senior_3/README.md)
+- **⬅️ Anterior**: [Módulo 7: Arquitectura CSS y Metodologías](../senior_1/README.md)
+- **➡️ Siguiente**: [Módulo 9: Herramientas y Frameworks](../senior_3/README.md)
 - **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
 
 ---

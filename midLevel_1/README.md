@@ -2,8 +2,8 @@
 
 ## 🧭 Navegación del Curso
 
-- **⬅️ Anterior**: [Módulo 3: Responsive Design](junior_3/README.md)
-- **➡️ Siguiente**: [Módulo 5: Animaciones y Transiciones](midLevel_2/README.md)
+- **⬅️ Anterior**: [Módulo 3: Responsive Design](../junior_3/README.md)
+- **➡️ Siguiente**: [Módulo 5: Animaciones y Transiciones](../midLevel_2/README.md)
 - **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
 
 ---
@@ -889,8 +889,8 @@ Una vez que hayas completado este módulo y el proyecto integrador, estarás lis
 
 ## 🧭 Navegación del Curso
 
-- **⬅️ Anterior**: [Módulo 3: Responsive Design](junior_3/README.md)
-- **➡️ Siguiente**: [Módulo 5: Animaciones y Transiciones](midLevel_2/README.md)
+- **⬅️ Anterior**: [Módulo 3: Responsive Design](../junior_3/README.md)
+- **➡️ Siguiente**: [Módulo 5: Animaciones y Transiciones](../midLevel_2/README.md)
 - **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
 
 ---

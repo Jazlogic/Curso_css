@@ -2,8 +2,8 @@
 
 ## 🧭 Navegación del Curso
 
-- **⬅️ Anterior**: [Módulo 8: Performance y Optimización](senior_2/README.md)
-- **➡️ Siguiente**: [Módulo 10: DevOps y Deployment](senior_4/README.md)
+- **⬅️ Anterior**: [Módulo 8: Performance y Optimización](../senior_2/README.md)
+- **➡️ Siguiente**: [Módulo 10: DevOps y Deployment](../senior_4/README.md)
 - **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
 
 ---
@@ -1132,8 +1132,8 @@ Una vez que hayas completado este módulo y el proyecto integrador, estarás lis
 
 ## 🧭 Navegación del Curso
 
-- **⬅️ Anterior**: [Módulo 8: Performance y Optimización](senior_2/README.md)
-- **➡️ Siguiente**: [Módulo 10: DevOps y Deployment](senior_4/README.md)
+- **⬅️ Anterior**: [Módulo 8: Performance y Optimización](../senior_2/README.md)
+- **➡️ Siguiente**: [Módulo 10: DevOps y Deployment](../senior_4/README.md)
 - **📚 [Índice Completo](../INDICE_COMPLETO.md)** | **[🧭 Navegación Rápida](../NAVEGACION_RAPIDA.md)**
 
 ---
